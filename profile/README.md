@@ -16,6 +16,7 @@ Price in USD or EUR, let your customers pay in BTC, ETH, USDT, SOL and more, and
 | Node.js 18+ | `npm install cigalpay-js-sdk` | [npm](https://www.npmjs.com/package/cigalpay-js-sdk) | [cigalpay-js-sdk](https://github.com/cigalpay/cigalpay-js-sdk) |
 | PHP 7.4+ | `composer require cigalpay/cigalpay-php-sdk` | [Packagist](https://packagist.org/packages/cigalpay/cigalpay-php-sdk) | [cigalpay-php-sdk](https://github.com/cigalpay/cigalpay-php-sdk) |
 | WooCommerce 8+ | Upload the zip in **Plugins → Add New Plugin** | [Download](https://github.com/cigalpay/cigalpay-woocommerce/releases/latest/download/cigalpay-for-woocommerce.zip) | [cigalpay-woocommerce](https://github.com/cigalpay/cigalpay-woocommerce) |
+| PrestaShop 8 and 9 | Upload the zip in **Modules → Module Manager** | [Download](https://github.com/cigalpay/cigalpay-prestashop/releases/latest/download/cigalpay.zip) | [cigalpay-prestashop](https://github.com/cigalpay/cigalpay-prestashop) |
 
 ## Accept a payment in a few lines
 
